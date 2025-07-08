@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of dat
 
 ## 🎓 Qualifications
 
-- Data within Excel (Aligned to MOS: Excel Associate exam)
-- Tableau & Power BI (PL-300T00-A Microsoft Power BI Data Analyst)
-- SQL
-- Azure fundamentals (DP900)
-- Python
-- GitHub, Google Sites, Canva
+- 📊 Data within Excel (Aligned to MOS: Excel Associate exam)
+- 📈 Tableau & Power BI (PL-300T00-A Microsoft Power BI Data Analyst)
+- 🛢️ SQL
+- ☁️ Azure Fundamentals (DP900)
+- 🐍 Python
+- 🗃️ GitHub, 🌐 Google Sites, 🎨 Canva
 
 ## 🚀 Projects
 
