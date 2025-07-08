@@ -26,23 +26,15 @@ Welcome to my GitHub profile! I’m passionate about harnessing the power of dat
 - 🐍 Python
 - 🗃️ GitHub, 🌐 Google Sites, 🎨 Canva
 
-## 🚀 Projects
-
-- Explore my repositories for real-world examples of data cleaning, EDA, machine learning, and visualization projects.
-- Check out my [most recent project](#) for a deep dive into predictive analytics!
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-
 **Wanting to Learn:**
 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4c8cb5?style=flat-square)
+
+## 🚀 Projects
+
+- Explore my repositories for real-world examples of data cleaning, EDA, machine learning, and visualization projects.
+- Check out my [most recent project](#) for a deep dive into predictive analytics!
 
 ## 📫 Connect with Me
 
