@@ -43,5 +43,3 @@ Here you’ll find my projects, ideas, and contributions in the data and tech wo
 
 Thanks for visiting my profile! ⭐️ Let’s unlock the power of data together.
 ```
-
-Let me know if you’d like further adjustments!
