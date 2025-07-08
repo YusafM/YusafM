@@ -32,7 +32,7 @@ Here you’ll find my projects, ideas, and contributions in the data and tech wo
 ## 🚀 Projects
 
 - Explore my repositories for real-world examples of data cleaning, EDA, machine learning, and visualization projects.
-- Check out my [most recent project](#) for a deep dive into predictive analytics!
+- Check out my [most recent project](https://github.com/YusafM/Tableau-EMSI-Job-Change-UK-Data-Visualisation) for a deep dive into predictive analytics!
 
 ## 📫 Connect with Me
 
@@ -42,4 +42,3 @@ Here you’ll find my projects, ideas, and contributions in the data and tech wo
 ---
 
 Thanks for visiting my profile! ⭐️ Let’s unlock the power of data together.
-```
