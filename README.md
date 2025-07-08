@@ -1,9 +1,7 @@
-Here’s your updated README.md section, reflecting that you are wanting to learn Matplotlib and Seaborn in the Languages & Tools list:
-
-```markdown
 # Hi there, I'm Yusaf! 👋
 
-Welcome to my GitHub profile! I’m passionate about harnessing the power of data to drive insights and innovation. Here you’ll find my projects, ideas, and contributions in the data and tech world.
+Welcome to my GitHub profile! I’m passionate about harnessing the power of data to drive insights and innovation. 
+Here you’ll find my projects, ideas, and contributions in the data and tech world.
 
 ## 🧑‍💻 About Me
 
