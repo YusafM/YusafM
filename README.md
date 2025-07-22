@@ -7,11 +7,11 @@ Here you’ll find my projects, ideas, and contributions in the data and tech wo
 
 | 💡 Skill/Interest                  | 📝 Details                                                                 |
 |------------------------------------|---------------------------------------------------------------------------|
-| 📊 Data Enthusiast                 | Skilled in data analysis, visualization, and storytelling with data.       |
+| 📊 Data Enthusiast                 | Skilled in data analysis, visualisation, and storytelling with data.       |
 | 🛠️ Tech Stack                     | Python, SQL, Pandas, NumPy, Jupyter Notebook, and more!                   |
 | 📈 Aspiring to Learn Machine Learning | Eager to build and deploy models for real-world problems.              |
 | 🗃️ Data Engineering                | Familiar with ETL processes, data cleaning, and data pipelines.           |
-| 📉 Visualization                   | Turning raw data into beautiful, actionable insights using modern tools.   |
+| 📉 Visualisation                   | Turning raw data into beautiful, actionable insights using modern tools.   |
 | 🗂️ Data Management                 | Knowledge of database design, querying, and big data concepts.            |
 | 🤝 Collaboration                   | Open to teaming up on data-driven projects and hackathons.                |
 
@@ -46,7 +46,7 @@ Explored real-world datasets using `pandas`, including:
 
 ### 🌍 SQL World Database Project – [View Project](https://github.com/YusafM/SQL-World-Database-DataSet)
 
-Used MySQL to analyze a simulated world dataset:
+Used MySQL to analyse a simulated world dataset:
 - Queried countries, populations, and economic indicators
 - Joined multiple tables for deeper insights
 - Explored patterns in language use, GDP, and demographics
@@ -57,19 +57,19 @@ Used MySQL to analyze a simulated world dataset:
 
 ### 📉 UK Job Change Analysis in Tableau – [View Project](https://github.com/YusafM/Tableau-EMSI-Job-Change-UK-Data-Visualisation)
 
-Visualized job changes across the UK using EMSI data:
+Visualised job changes across the UK using EMSI data:
 - Created interactive dashboards to explore sector and regional trends
 - Highlighted areas with the largest employment shifts
 - Helped answer "where is job growth happening and where is it declining?"
 
-✅ **Skills shown**: Tableau storytelling, design thinking, data visualization
+✅ **Skills shown**: Tableau storytelling, design thinking, data visualisation
 
 ---
 
 ### 🚴 Excel Bike Sales Dashboard – [View Project](https://github.com/YusafM/Excel-Bike-Sales-Visualisations-DataSet)
 
-Built a clean Excel dashboard to analyze bike sales data:
-- Visualized sales trends by region, age group, and category
+Built a clean Excel dashboard to analyse bike sales data:
+- Visualised sales trends by region, age group, and category
 - Used pivot tables and slicers for interactivity
 - Designed with clarity and insight in mind
 
