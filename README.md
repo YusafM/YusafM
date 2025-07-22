@@ -29,10 +29,52 @@ Here you’ll find my projects, ideas, and contributions in the data and tech wo
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4c8cb5?style=flat-square)
 
-## 🚀 Projects
 
-- Explore my repositories for real-world examples of data cleaning, EDA, machine learning, and visualization projects.
-- Check out my [most recent project](https://github.com/YusafM/SQL-World-Database-DataSet) for a deep dive into predictive analytics!
+## ✨ Projects
+
+### 📊 Data Analysis with Pandas – [View Project](https://github.com/YusafM/Pandas_DataFrames_02_Advanced)
+
+Explored real-world datasets using `pandas`, including:
+- Reading and inspecting CSV data
+- Calculating summary statistics
+- Filtering data using Boolean conditions
+- Creating new features like average mileage
+
+✅ **Skills shown**: Data cleaning, exploratory data analysis, feature engineering
+
+---
+
+### 🌍 SQL World Database Project – [View Project](https://github.com/YusafM/SQL-World-Database-DataSet)
+
+Used MySQL to analyze a simulated world dataset:
+- Queried countries, populations, and economic indicators
+- Joined multiple tables for deeper insights
+- Explored patterns in language use, GDP, and demographics
+
+✅ **Skills shown**: SQL joins, aggregation, filtering, schema understanding
+
+---
+
+### 📉 UK Job Change Analysis in Tableau – [View Project](https://github.com/YusafM/Tableau-EMSI-Job-Change-UK-Data-Visualisation)
+
+Visualized job changes across the UK using EMSI data:
+- Created interactive dashboards to explore sector and regional trends
+- Highlighted areas with the largest employment shifts
+- Helped answer "where is job growth happening and where is it declining?"
+
+✅ **Skills shown**: Tableau storytelling, design thinking, data visualization
+
+---
+
+### 🚴 Excel Bike Sales Dashboard – [View Project](https://github.com/YusafM/Excel-Bike-Sales-Visualisations-DataSet)
+
+Built a clean Excel dashboard to analyze bike sales data:
+- Visualized sales trends by region, age group, and category
+- Used pivot tables and slicers for interactivity
+- Designed with clarity and insight in mind
+
+✅ **Skills shown**: Excel analytics, dashboard design, business intelligence
+
 
 ## 📫 Connect with Me
 
